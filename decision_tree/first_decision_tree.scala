@@ -10,7 +10,7 @@ import org.apache.spark.mllib.evaluation._
  *
  * The target is the forest cover type designation.
  *
- * This script include these differents actions :
+ * This script include these different actions :
  *
  * - Prepare the data
  * - Train a Decision Tree model
